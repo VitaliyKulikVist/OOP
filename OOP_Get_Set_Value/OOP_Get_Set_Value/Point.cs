@@ -68,20 +68,6 @@ namespace OOP_Get_Set_Value
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         public void Print()
         {
             Console.WriteLine($"Znachenia X= {x}\nZnachenia Y={Y_set_get}\nZnachenia Z={Z_get_set} ");
