@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Get_Set_Value", "OOP_Ge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Static_class", "OOP_Static_class\OOP_Static_class\OOP_Static_class.csproj", "{4D61EFD5-C1C4-44CE-83E0-36FF41B3DD08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Abstract_type", "OOP_Abstract_type\OOP_Abstract_type\OOP_Abstract_type.csproj", "{23508C2C-650A-4C9A-BE66-0E3328175CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Abstract_type", "OOP_Abstract_type\OOP_Abstract_type\OOP_Abstract_type.csproj", "{23508C2C-650A-4C9A-BE66-0E3328175CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interface", "OOP_Interface\OOP_Interface\OOP_Interface.csproj", "{4CC92133-8170-4471-90A2-41D65BF7818D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC92133-8170-4471-90A2-41D65BF7818D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC92133-8170-4471-90A2-41D65BF7818D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC92133-8170-4471-90A2-41D65BF7818D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC92133-8170-4471-90A2-41D65BF7818D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
