@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1321
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_class", "OOP_Class\OOP_Class-master\OOP1\OOP_class.csproj", "{392821EC-2C88-4318-B545-F7D6EEE15AEC}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Get_Set_Value", "OOP_Get_Set_Value\OOP_Get_Set_Value\OOP_Get_Set_Value.csproj", "{B7188060-3A2E-4A4F-B098-144725A767BE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Static_class", "OOP_Static_class\OOP_Static_class\OOP_Static_class.csproj", "{4D61EFD5-C1C4-44CE-83E0-36FF41B3DD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Abstract_type", "OOP_Abstract_type\OOP_Abstract_type\OOP_Abstract_type.csproj", "{23508C2C-650A-4C9A-BE66-0E3328175CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4D61EFD5-C1C4-44CE-83E0-36FF41B3DD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D61EFD5-C1C4-44CE-83E0-36FF41B3DD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D61EFD5-C1C4-44CE-83E0-36FF41B3DD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23508C2C-650A-4C9A-BE66-0E3328175CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
